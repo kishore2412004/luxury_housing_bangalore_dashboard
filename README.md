@@ -1,7 +1,9 @@
 # luxury_housing_bangalore_dashboard
 <img width="956" height="533" alt="Screenshot 2025-08-29 171832" src="https://github.com/user-attachments/assets/52604b39-c975-424f-9e09-274bb752bd00" />
 <img width="957" height="534" alt="Screenshot 2025-08-29 171808" src="https://github.com/user-attachments/assets/4f9d7bd2-1ed4-48e9-88e2-e12eb1edc1cc" />
-📌 Project Overview
+
+
+## 📌 Project Overview
 
 This project focuses on analyzing the Luxury Housing Market in Bangalore using Power BI.
 It provides deep insights into sales performance, pricing patterns, booking conversions, and amenities that drive customer preferences.
@@ -16,7 +18,7 @@ Optimize pricing & amenities
 
 Make data-driven investment decisions
 
-📊 Key Insights
+## 📊 Key Insights
 
 The dashboard provides answers to important business questions:
 
@@ -52,7 +54,7 @@ Project distribution across Bangalore (Map view)
 
 Micro-market clustering for targeted strategy
 
-📌 Dashboard Features
+## 📌 Dashboard Features
 
 KPIs (Cards) → Total Projects, Units Sold, Avg. Price per Sq.Ft, Conversion Rate
 
@@ -64,7 +66,7 @@ Map Visualization → Geospatial distribution of projects
 
 Filters & Slicers → By Project Type, Developer, Micro-Market, Time Period
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Power BI Desktop (.pbix) – Dashboard & Data Visualization
 
@@ -72,7 +74,7 @@ Excel/CSV Dataset – Luxury Housing Market Data (Bangalore)
 
 DAX Measures – Custom calculations for insights
 
-🚀 How to Use
+## 🚀 How to Use
 
 Clone/download the repository
 
@@ -82,7 +84,7 @@ Refresh the data source if needed
 
 Interact with the dashboard using slicers & filters
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Predictive analysis: Machine Learning model to forecast sales
 
